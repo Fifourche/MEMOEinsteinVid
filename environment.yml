@@ -3,6 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - numpy
+  - pip
   - pip:
     - manim
-    - jupyter_manim
+    - jupyter-manim
