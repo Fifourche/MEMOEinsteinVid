@@ -4,6 +4,9 @@ channels:
 dependencies:
   - python
   - numpy
+  - miktex
+  - ffmpeg
+  - sox
   - pip
   - pip:
     - manim
