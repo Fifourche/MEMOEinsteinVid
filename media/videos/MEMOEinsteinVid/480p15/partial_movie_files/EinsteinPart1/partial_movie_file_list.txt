@@ -1,5 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:D:/Guena Files/Documents/Fifou/git_repos/MEMOEinsteinVid/media/videos/MEMOEinsteinVid/480p15/partial_movie_files/EinsteinPart1/3163782288_3992145579_693062594.mp4'
-file 'file:D:/Guena Files/Documents/Fifou/git_repos/MEMOEinsteinVid/media/videos/MEMOEinsteinVid/480p15/partial_movie_files/EinsteinPart1/1495979052_2432241074_2133587890.mp4'
-file 'file:D:/Guena Files/Documents/Fifou/git_repos/MEMOEinsteinVid/media/videos/MEMOEinsteinVid/480p15/partial_movie_files/EinsteinPart1/1495979052_672969147_1999645818.mp4'
-file 'file:D:/Guena Files/Documents/Fifou/git_repos/MEMOEinsteinVid/media/videos/MEMOEinsteinVid/480p15/partial_movie_files/EinsteinPart1/1495979052_2432241074_3438366924.mp4'

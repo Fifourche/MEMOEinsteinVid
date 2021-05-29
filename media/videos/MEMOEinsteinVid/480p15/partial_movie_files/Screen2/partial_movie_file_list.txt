@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Guena/git_repos/MEMOEinsteinVid/media/videos/MEMOEinsteinVid/480p15/partial_movie_files/Screen2/3163782288_752537501_3543627629.mp4'
+file 'file:C:/Users/Guena/git_repos/MEMOEinsteinVid/media/videos/MEMOEinsteinVid/480p15/partial_movie_files/Screen2/1495979052_4216577937_3043946901.mp4'
+file 'file:C:/Users/Guena/git_repos/MEMOEinsteinVid/media/videos/MEMOEinsteinVid/480p15/partial_movie_files/Screen2/1495979052_2831375893_3734164173.mp4'
+file 'file:C:/Users/Guena/git_repos/MEMOEinsteinVid/media/videos/MEMOEinsteinVid/480p15/partial_movie_files/Screen2/1495979052_689794900_940303836.mp4'
+file 'file:C:/Users/Guena/git_repos/MEMOEinsteinVid/media/videos/MEMOEinsteinVid/480p15/partial_movie_files/Screen2/1495979052_1893858818_940303836.mp4'
+file 'file:C:/Users/Guena/git_repos/MEMOEinsteinVid/media/videos/MEMOEinsteinVid/480p15/partial_movie_files/Screen2/1495979052_2737764339_3108701423.mp4'
+file 'file:C:/Users/Guena/git_repos/MEMOEinsteinVid/media/videos/MEMOEinsteinVid/480p15/partial_movie_files/Screen2/1495979052_2186572419_3108701423.mp4'
+file 'file:C:/Users/Guena/git_repos/MEMOEinsteinVid/media/videos/MEMOEinsteinVid/480p15/partial_movie_files/Screen2/1495979052_1143821417_1808372433.mp4'
+file 'file:C:/Users/Guena/git_repos/MEMOEinsteinVid/media/videos/MEMOEinsteinVid/480p15/partial_movie_files/Screen2/1495979052_1616845761_1887872184.mp4'
+file 'file:C:/Users/Guena/git_repos/MEMOEinsteinVid/media/videos/MEMOEinsteinVid/480p15/partial_movie_files/Screen2/1495979052_1197037766_3895505494.mp4'
